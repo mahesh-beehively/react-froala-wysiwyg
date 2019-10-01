@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "https://github.com/froala/wysiwyg-editor/commit/990583daab42d3acbda5933c29fa7361132756b5"
+    "froala-editor": "https://github.com/froala/wysiwyg-editor#990583daab42d3acbda5933c29fa7361132756b5"
   },
   "devDependencies": {
     "autoprefixer": "^8.3.0",
